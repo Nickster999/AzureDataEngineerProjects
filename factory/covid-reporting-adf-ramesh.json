@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-ramesh",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "047868f1-f501-4c04-b1d9-4ff04fda5b3c",
+		"tenantId": "251dbd03-40e1-4bc0-bc4f-8bd635226c2b"
+	}
+}
